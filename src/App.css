@@ -14,3 +14,11 @@
 button{
   cursor: pointer;
 }
+.position_center{
+  position: absolute;
+  top: 50%;
+  right: 50%;
+  height: 50px;
+  width: 50px;
+  font-size: larger;
+}

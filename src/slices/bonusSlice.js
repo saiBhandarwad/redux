@@ -9,7 +9,8 @@ export const bonusSlice = createSlice({
   reducers: {
     increment: (state) => {
       state.points += 1
-    }
+    },
+
   },
   extraReducers:(builder)=>{
     builder
