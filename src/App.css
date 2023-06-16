@@ -1,0 +1,16 @@
+.yellow{
+  color: yellow;
+}
+.main_heading{
+  color: rgb(57, 2, 2);
+}
+.justify_center{
+  display: flex;
+  justify-content: center;
+}
+.mx-2{
+  margin-right: 10px;
+}
+button{
+  cursor: pointer;
+}
