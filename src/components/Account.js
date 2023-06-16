@@ -15,7 +15,7 @@ export default function Account() {
   return (
     <>
     
-      <h2 className='main_heading justify_center'> Account Component </h2>
+      <h2 className='main_heading justify_center'>** Account Component **</h2>
         <h3 className='yellow justify_center'>Ammount: {amount}</h3>
         <div className='justify_center'>
         <button className=' mx-2' onClick={()=>dispatch(increment())}>Increment +</button>
